@@ -1,4 +1,4 @@
-# To Do Application
+# To Do List Application
 ### Make sure node.js and react.js are already installed
 - There are two folder
   - client
@@ -26,5 +26,5 @@
 ```
   - automatically To Do list application will be started in the browser. If not, then type in browser - http://localhost:3000/
   - ```bash
-    npm start
+    localhost:3000
 ```
